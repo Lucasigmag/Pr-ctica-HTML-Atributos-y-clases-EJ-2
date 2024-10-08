@@ -1,0 +1,15 @@
+h2#nombre_ciudad{
+    color: blue;
+    font-style: oblique;
+    font-size: 2em;
+}
+
+p.descrip_ciudad{
+    color: green;
+    font-family: Arial;
+}
+
+p.sitios_ciudad{
+    color: brown;
+    font-family: sans-serif;
+}
